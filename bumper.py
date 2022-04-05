@@ -23,9 +23,9 @@ while x:
             print(mes)
             bot.gateway.close() #optional. It's better to remove this line actually.
 
-    guildID = "856560014311292958"
-    channelID = "858061757775872011"
-    botID = "302050872383242240"
+    guildID = "960210545603133470"
+    channelID = "960942903553835078"
+    botID = "960942284747202691"
     bot.gateway.command(
         {
              "function": slashCommandTest,
