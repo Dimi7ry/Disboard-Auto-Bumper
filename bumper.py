@@ -25,7 +25,7 @@ while x:
 
     guildID = "960210545603133470"
     channelID = "960942903553835078"
-    botID = "960942284747202691"
+    botID = "302050872383242240"
     bot.gateway.command(
         {
              "function": slashCommandTest,
